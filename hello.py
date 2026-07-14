@@ -33,7 +33,8 @@ def main():
 
     #To print something to the screen in Python.
     print("\n Hello Python Multiverse!\n\n")
-
+    number = int(input("Input a number between 1 and 10: "))
+    print(number)
 
 #Call the main function
 main()
